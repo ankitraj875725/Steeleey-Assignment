@@ -1,0 +1,5 @@
+  Question 1.  What is simple list  
+
+  Ans:A simple list is a list in which the order of list items is not significant. 
+       A simple list is similar to unordered list, but in a simple list the items
+       are not marked with a bullet or other symbol.
